@@ -1,0 +1,11 @@
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\obj\Debug\netcoreapp2.2\urban-planner.csprojAssemblyReference.cache
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\obj\Debug\netcoreapp2.2\urban-planner.csproj.CoreCompileInputs.cache
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\obj\Debug\netcoreapp2.2\urban-planner.AssemblyInfoInputs.cache
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\obj\Debug\netcoreapp2.2\urban-planner.AssemblyInfo.cs
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\bin\Debug\netcoreapp2.2\urban-planner.deps.json
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\bin\Debug\netcoreapp2.2\urban-planner.runtimeconfig.json
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\bin\Debug\netcoreapp2.2\urban-planner.runtimeconfig.dev.json
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\bin\Debug\netcoreapp2.2\urban-planner.dll
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\bin\Debug\netcoreapp2.2\urban-planner.pdb
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\obj\Debug\netcoreapp2.2\urban-planner.dll
+C:\Users\Alex\workspace\csharp\chap6\urban-planner\obj\Debug\netcoreapp2.2\urban-planner.pdb
